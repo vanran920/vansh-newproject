@@ -1,0 +1,56 @@
+body{
+    font-family: sans-serif; 
+    background-color: aqua;
+    /* padding-top: 50px;
+    padding-right: 30px;
+    padding-left: 50px;
+    padding-bottom: 80px; */
+    /* margin: 0%; */
+    /* padding: ; */
+    /* margin-top: 70px;
+    margin-right: 40px;
+    margin-left: 90px;
+    margin-bottom: 56px; */
+    /* margin: 70px 40px 56px 90px; */
+}
+
+header{
+    background-color: white;
+    color: red;
+    padding: 15px;
+    text-align: center; /* IT CONTROL THE ALIGNMENT OF THE TEXT. PROPERTY IS CENTER, RIGHT,LEFT,JUSTIFY*/
+}
+
+nav ul{
+    list-style-type: none; /* Is used to specify the type of marker or bullet point that is used in a list*/
+    padding: 0;
+}
+
+nav ul li{
+    display: inline; /* display property is used to specify how an element is displayed on a webpage.*/
+    margin: 0px 15px;
+}
+
+nav ul li a{
+    color: black;
+    text-decoration: underline; /* A property is used to specify the decoration that is added to text. It can be used add effect such as underline,overline or strikethrough to text.*/
+}
+
+section{
+   padding: 20px;
+   text-align: center;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    width: 100px;
+    bottom: 0;
+}
+
+
+
+
+
